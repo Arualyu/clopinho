@@ -167,7 +167,7 @@ class MLBenchmark():
         indice_melao = (cagr * profit_factor) / (1 + abs(drawdown))
 
 
-        APIgoogle("O indíce melão atual é "+str(indice_melao)+". Descreva em 2 linhas o que isso indica sobre o regime de mercado.")
+        APIgoogle("O indíce melão atual é "+str(indice_melao)+". Descreva em 2 linhas o que isso indica sobre o regime de mercados se drawdown está bom e qual a perfomance do ativo relacionado BOVA11 ao risco fora isso busque notícias que podem impactar.")
 
         plt.show()
 
